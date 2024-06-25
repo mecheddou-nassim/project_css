@@ -1,0 +1,23 @@
+.rojo{
+    color: red;
+
+}
+#rejo{
+    background: red;
+}
+.azul{
+  color: blue;
+}
+.anar{
+    color: orange;
+}
+.verde{
+    color: green;
+}
+.amarillo{
+    color: yellow;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
